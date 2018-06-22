@@ -1,0 +1,35 @@
+img{
+    height: 45%;
+    width:  45%;
+}
+
+  .holder20 {
+      display: none;
+  }
+  .holder12{
+      display:none;
+  }
+
+  .holder10 {
+      display:none;
+  }
+
+  .holder8 {
+      display:none;
+  }
+  .holder6{
+      display:none;
+  }
+
+  .holder4{
+      display:none;
+  }
+
+  .floating-box {
+    display: inline-block;
+    width: 350px;
+    height: 75px;
+    margin: 10px;
+    border: none;
+    text-align: center;
+  }
